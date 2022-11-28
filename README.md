@@ -1,4 +1,3 @@
-# Pewlett-Hackard-Analysis
 # Pewlett-Hackard-Analysis using postgreSQL
 
 ## Purpose :
@@ -11,7 +10,7 @@ This report will help Pewlett-Hackard (PH) prepare for the upcoming wave of reti
 
 We understand based on current information provided by PH that employees who were born between January 1, 1952 and December 31, 1955 are retirement-bound employees by title for a total of **72 458**.  See table A. Based on the various tables, some employees have had multiple titles due to promotions. Several employees have also left the company.  In all, the total heacount since PH has been in operation is **300, 024**. (see Salaries.csv file). Of that number only **240 124** are currently still working with PH. (We were told that "to_date" field gives us the information if an employee is still with PH, ie. to_date equal to '9999-01-01' means that the employee is still with the company. Using these information I included only current employees and their most recently held titles in the retirement age table.The below image is the result of the retirement age titles and numbers.
 
-Retiring title table see table A
+Retiring See tables A
 
 ![image](https://user-images.githubusercontent.com/115424156/204160192-30197659-c346-4951-8816-49b2c3b324e8.png)
 
@@ -27,7 +26,7 @@ Retiring title table see table A
 
 PH is working on a Mentorship program to alleviate the impact of the upcoming leave due to retirement. PH suggests that **current** employees who are eligible to participate in a mentorship program must be born in **1965**. From this information, the mentorship eligibility table yields only 1549 employees who are eligible to participate as follows: 
 
-See Table B
+See Tables B
 ![image](https://user-images.githubusercontent.com/115424156/204172337-d8539512-b0c6-4db0-86ad-8c16d032a20c.png)
 
 
@@ -37,16 +36,14 @@ See Table B
 
 
 
-
  
 
 ## Major points from the analysis:
 
-1.	PH will lose  **74 758** or 30% ( 74,758/240 214)of its overall headcount to retirement. That's a considerable loss that represents a huge brain  drain as the experience accumulated throughout the years will prove difficutl to replace right away. When the data is evaluated in details, the impact is not equally distributed in all departements. Take the engineering area for example. 
+1.	PH will lose  **74 758** or 30% ( 74,758/240 214) of its overall headcount to retirement. That's a considerable loss that represents a huge brain  drain as the experience accumulated throughout the years will prove difficutl to replace right away. When the data is evaluated in details, the impact is not equally distributed in all departements. Take the engineering area for example. 
 
 2.	Retirement will negatively impact the Engineering area which accounts for 48% of all total titles cuurently employeed ( sr engineers at 25916 or 35% of the total of 85 939 in this area and for assistant engieneers, at 9285 or 12% of  total engineer of 30983 and and assitant-engineer-3588 (1%) for an overall in "engineering of  120 510 over 240 124 active titles. Losing nearly half of the headcount (48%) in this technical area will negatively affect PH both in the short and long term. 
-The same observation can be found at the senior staff level as well which represents 34% of the overall employees that will be cut by 30%. 
-
+The same observation can be found at the senior staff level as well which represents 34% of the overall employees that will be cut by 30%.
 
 Overall, the 2 main titles that are senior engineers and senior staff will reflect the most decrease due to retirement. Other groups such as staff, managers, technique leader are relatively affected but not as much relative to the 2 groups indicated above. 
 In summary, regardless of how one will look at this, the wave of retirement will will negatively impact PH. It's imperative that a program be implemented to assume the transition. 
@@ -60,7 +57,7 @@ See table C
  
 
 3.	The mentorship program being implemented by PH allows the **current** employees born between January 1, 1965 and December 31, 1965. to be mentors. Total number of people who are retiring and eventually need to be replaced is 74 758. PH has total of 1940 mentors of which only 1549 are trully eligilible. That means they will have one mentor for every 48 new employee they hire. This ratio is quite high.
-4.	
+
 5.	When the number of mentors are catogorized by at the title level, we have a better picture of the percentage of mentors versus number of employees to be trained. AccordingLy 1 mentor is needed to work with 49 staff, 1 for 46 Technical leader and 1 for every Sr Staff. This ratio is a lot worst in the Sr. engineer area where the ratio is 1 to 153. It will be  challenge to carry this program out successfuly T+hese numbers are quite high. There is no mentor available for manager position. PH might want to outsource the training employees or hire  new employees to as mentors or hire employees or expand the date of birth to have enough mentors.
  
 
@@ -79,9 +76,12 @@ Given that there are only 1549 qualified participants  to the mentorship program
 
 • How soon will it take for new employees to be fully trained and mentored to take over when the retirement tsunami takes effect?
 
-• And finally, the ratio of the retiring titles compared to currently working employees and compared to retiring titles ( See table E below) reflects a major issue when it comes to senior engineers. At the rate of 1 mentor for 121 mentees, it will prove very challenging to carry out a succesful program. There remains high mentor to mentees ratio for senir staff (1 to 39) and ttechnical leader ( 1 to 28) as well. So for this program to be succesful and bear the fruits expected PH will need to work on not overwhleming the mentors. The criteria for mentorship eleigibility could for example be open to date of birth other than 1965 so more mentors are available.  
+• And finally, the ratio of the retiring titles compared to currently working employees and compared to retiring titles ( See table E below) reflects a major issue when it comes to senior engineers. At the rate of 1 mentor for 153 mentees, it will prove very challenging to carry out a succesful program. There remains high mentor to mentees ratio for senir staff (1 to 43) and technical leader ( 1 to 46) as well. So for this program to be succesful and bear the fruits expected PH will need to work on not overwhleming the mentors. The criteria for mentorship eleigibility could for example be open to date of birth other than 1965 so more mentors are available.  
 
 Table E
+
+![image](https://user-images.githubusercontent.com/115424156/204194076-1c6e9304-a7e0-4787-b7ac-7f0ce8e27b13.png)
+
 
 
 
@@ -89,6 +89,7 @@ Below is the need of mentors by departments to show the big picture need of PH. 
 
 
  TabLe F
+
 ![image](https://user-images.githubusercontent.com/115424156/204176128-2d2b9b1a-df07-4a92-ad10-652d08904b2d.png)
 
 
