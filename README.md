@@ -61,15 +61,10 @@ See table C
 
 3.	The mentorship program being implemented by PH allows the **current** employees born between January 1, 1965 and December 31, 1965. to be mentors. Total number of people who are retiring and eventually need to be replaced is 74 758. PH has total of 1940 mentors of which only 1549 are trully eligilible. That means they will have one mentor for every 48 new employee they hire. This ratio is quite high.
 4.	
-5.	When the number of mentors are catogorized by title we have a better picture of the percentage of mentors versus number of employees to be trained. According to query result,  that shows the percentage of mentors for employees below PH will have one Staff mentor to train 78 new employees. PH will need one mentor to train 14 Engineer positions. These numbers are quite high. There is no mentor available for manager position. PH might want to outsource the training employees or hire  new employees to as mentors or hire employees or expand the date of birth to have enough mentors.
+5.	When the number of mentors are catogorized by at the title level, we have a better picture of the percentage of mentors versus number of employees to be trained. AccordingLy 1 mentor is needed to work with 49 staff, 1 for 46 Technical leader and 1 for every Sr Staff. This ratio is a lot worst in the Sr. engineer area where the ratio is 1 to 153. It will be  challenge to carry this program out successfuly T+hese numbers are quite high. There is no mentor available for manager position. PH might want to outsource the training employees or hire  new employees to as mentors or hire employees or expand the date of birth to have enough mentors.
  
 
 see table D
-
-![image](https://user-images.githubusercontent.com/115424156/204174200-77640d89-5b20-472a-9831-8678b94b7b96.png)
-
-![image](https://user-images.githubusercontent.com/115424156/204165847-f0d24f07-065e-4daf-bab5-b5b5ded9b9e9.png)
-
 
 ![image](https://user-images.githubusercontent.com/115424156/204175481-ee11901d-f7c3-4b87-9746-b4e47dcfa07a.png)
 
@@ -84,11 +79,13 @@ Given that there are only 1549 qualified participants  to the mentorship program
 
 • How soon will it take for new employees to be fully trained and mentored to take over when the retirement tsunami takes effect?
 
-• And finally, the ratio of the retiring titles compared to currently working employees and compared to retiring titles ( See table E below) reflects a major issue when it comes to senior engineers. At the rate of 1 mentor for 121 mentees, it will prove very challenging to carry out a succesful program. There remains high mentor to mentees ratio for senir staff (1 to 39) and ttechnical leader ( 1 to 28) as well. So for this program to be succesful and bear the fruits expected PH will need to work on not overwhleming the mentors. The criteria for mentorship eleigibility could for example be open to date of birth other than 1965.  
-
-Below is the need of mentors by departments to show the big picture need of PH. The focus should be put in the Sr Staff and Engineering area where over 1000 of the eligible mentors are needed ( 569 and 501 respectively) -See Table F
+• And finally, the ratio of the retiring titles compared to currently working employees and compared to retiring titles ( See table E below) reflects a major issue when it comes to senior engineers. At the rate of 1 mentor for 121 mentees, it will prove very challenging to carry out a succesful program. There remains high mentor to mentees ratio for senir staff (1 to 39) and ttechnical leader ( 1 to 28) as well. So for this program to be succesful and bear the fruits expected PH will need to work on not overwhleming the mentors. The criteria for mentorship eleigibility could for example be open to date of birth other than 1965 so more mentors are available.  
 
 Table E
+
+
+
+Below is the need of mentors by departments to show the big picture need of PH. The focus should be put in the Sr Staff and Engineering area where over 1000 of the eligible mentors are needed ( 569 and 501 respectively) -See Table F
 
 
  TabLe F
